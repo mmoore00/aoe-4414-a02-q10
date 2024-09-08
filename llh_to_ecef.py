@@ -1,7 +1,7 @@
 # llh_to_ecef.py
 #
 # Usage: python3 llh_to_ecef.py lat_deg lon_deg hae_km
-# Converts longitude, latitude, height above ellipsoid to radii in ECEF x, y, and z directions
+# Converts latitude, longitude, height above ellipsoid to radii in ECEF x, y, and z directions
 #
 # Parameters:
 #  lat_deg: latitude in degrees
